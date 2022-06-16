@@ -1,0 +1,32 @@
+{
+	"storyName": "showstopping",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "mike",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "rouxls",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"showstopping",
+			"mike",
+			[
+				80,
+				80,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "mike",
+	"hiddenUntilUnlocked": true
+}
