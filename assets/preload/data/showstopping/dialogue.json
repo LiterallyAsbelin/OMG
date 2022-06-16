@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Press the SHIELD NOTES to avoid Mike's attacks."
+		}
+	]
+}
